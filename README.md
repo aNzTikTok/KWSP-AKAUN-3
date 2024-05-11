@@ -3,4 +3,4 @@
 ## Calculator - KWSP
 ### Pengiraan Pembahagian menurut KWSP!.
 
-DENO : https://ifhax.com/kwsp
+DEMO : https://ifhax.com/kwsp
